@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class WB_6_1_Factorial {
     public static void main(String[] args) {
-        System.out.println("Вычисление факториала");
+        System.out.println("== Вычисление факториала ==");
         System.out.print("Введите число N: ");
         Scanner in = new Scanner(System.in);
         while (!in.hasNextInt()) {
