@@ -20,5 +20,7 @@ public class WB_6_1_Factorial {
                     BigInteger.valueOf(i));
         }
         System.out.println(N + "! = " + res);
+        System.out.println("Спасибо что использовали " +
+                "нашу программу :)");
     }
 }
